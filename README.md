@@ -1,4 +1,12 @@
-## Hi there 👋
+### Why hello there, I'm Jenn!
+
+I am a Computer Science graduate from Georgia Tech's [OMSCS program](https://omscs.gatech.edu/) where I focused on machine learning and interactive intelligence. 
+
+I hope the projects below showcase that I enjoy thinking about how technology can be applied to improving people's lives and protecting our planet. In particular, you will find side projects that have explored automated cancer detection, supporting disaster relief through deep learning powered satellite image segmentation and creating simple productivity tools.
+
+Most recently, I am working on [bringing a simple investment dashboard to life](https://investly.dev), incorporating both the things I learned in my degree, the ever changing AI & tech stack and my interest in investing. Feel free to check it out and if you have any feedback, don't hesitate to reach out!
+
+In addition, here is [my website](https://www.jennjordache.com/) for more details on my background and other goodies you might enjoy.
 
 <!--
 **jenni4j/jenni4j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
