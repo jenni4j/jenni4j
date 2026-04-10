@@ -1,4 +1,4 @@
-### Why hello there, I'm Jenn!
+### Hello there, I'm Jenn!
 
 I am a Computer Science graduate from Georgia Tech's [OMSCS program](https://omscs.gatech.edu/) where I focused on machine learning and interactive intelligence. 
 
